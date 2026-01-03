@@ -7,7 +7,7 @@
 
 ## Login Credentials
 - **Admin:** `Admin / Admin`
-- **Vendor:** `shashi@gmail.com / shashi`
+- **Vendor:** `mrunali@gmail.com / mrunali`
 
 ---
 
